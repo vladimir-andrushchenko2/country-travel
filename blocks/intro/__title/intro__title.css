@@ -1,0 +1,6 @@
+.intro__title {
+  white-space: pre-line;
+  font-weight: var(--bold-font-weight);
+  font-size: 32px;
+  line-height: 35px;
+}
