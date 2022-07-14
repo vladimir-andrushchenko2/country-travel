@@ -1,6 +1,6 @@
 .lead__title {
   margin: 48px auto 0;
-  width: 90%;
-  text-align: center;
   font-weight: var(--bold-font-weight);
+  width: 90%;
+  margin: auto;
 }
