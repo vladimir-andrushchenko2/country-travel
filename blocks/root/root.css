@@ -2,4 +2,7 @@
 
 .root {
   font-family: 'Inter', Arial, sans-serif;
+  --normal-font-weight: 400;
+  --bold-font-weight: 900;
+  --text-color: #fff;
 }

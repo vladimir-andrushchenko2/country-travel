@@ -1,5 +1,6 @@
 .logo {
   background-image: url(../../background-images/logo.svg);
-  width: 176px;
-  height: 52px;
+  background-size: contain;
+  width: 142px;
+  height: 42px;
 }
