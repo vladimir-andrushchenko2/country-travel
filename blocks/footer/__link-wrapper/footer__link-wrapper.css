@@ -1,0 +1,3 @@
+.footer__link-wrapper:nth-child(n + 2) {
+  margin-top: 32px;
+}
