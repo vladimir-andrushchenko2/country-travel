@@ -1,0 +1,10 @@
+.place__paragraph {
+  margin: 32px auto 0;
+  font-size: 16px;
+  line-height: 26px;
+  width: 90%;
+}
+
+.place__paragraph:nth-child(n + 5) {
+  margin-top: 25px;
+}
