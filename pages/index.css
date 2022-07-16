@@ -32,10 +32,10 @@
 @import url(../blocks/place/__website-wrapper/place__website-wrapper.css);
 @import url(../blocks/place/__url-sign/place__url-sign.css);
 @import url(../blocks/place/__website/place__website.css);
-@import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 
 @import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__title/cover__title.css);
 
