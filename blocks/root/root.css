@@ -2,8 +2,11 @@
 
 .root {
   font-family: 'Inter', Arial, sans-serif;
-  --normal-font-weight: 400;
-  --bold-font-weight: 900;
   background-color: #2a2c2f;
   color: #fff;
+  --normal-font-weight: 400;
+  --bold-font-weight: 900;
+  --max-width-inside-768: 720px;
+  --max-width-inside-1024: 928px;
+  --max-width-inside-1280: 984px;
 }
