@@ -9,17 +9,34 @@
 @media screen and (min-width: 768px) {
   .place {
     max-width: var(--max-width-inside-768);
+    margin-top: 72px;
+    display: grid;
+    gap: 48px 28px;
+    grid-template-areas:
+      'title website-wrapper'
+      'image text';
+  }
+
+  .place:nth-child(1) {
+    margin-top: 88px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .place {
     max-width: var(--max-width-inside-1024);
+    column-gap: 32px;
+    margin-top: 80px;
+  }
+
+  .place:nth-child(1) {
+    margin-top: 92px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .place {
     max-width: var(--max-width-inside-1280);
+    column-gap: 40px;
   }
 }
