@@ -3,10 +3,6 @@
   background-size: cover;
   height: 62.5vw;
   max-height: 740px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
   position: relative;
   margin: 66px auto 0;
   max-width: var(--max-width-gallery-inside-1280);

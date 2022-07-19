@@ -3,11 +3,16 @@
   height: 100%;
   position: absolute;
   z-index: 0;
-  background-color: #2a2c2f;
-  opacity: 0.3;
+  background-color: rgba(42, 44, 47, 0.3);
   transition: 1s;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  text-decoration: none;
 }
 
 .cover__overlay:hover {
-  opacity: 0.8;
+  background-color: rgba(42, 44, 47, 0.8);
 }
