@@ -5,4 +5,9 @@
   z-index: 0;
   background-color: #2a2c2f;
   opacity: 0.3;
+  transition: 1s;
+}
+
+.cover__overlay:hover {
+  opacity: 0.8;
 }
