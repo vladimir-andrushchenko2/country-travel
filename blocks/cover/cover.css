@@ -2,6 +2,7 @@
   background-image: url(../../background-images/cover-320.jpg);
   background-size: cover;
   height: 62.5vw;
+  max-height: 740px;
   display: flex;
   flex-direction: column;
   justify-content: center;
