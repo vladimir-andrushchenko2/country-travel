@@ -13,6 +13,7 @@
 @import url(../blocks/lang-links/lang-links.css);
 @import url(../blocks/lang-links/__item-wrapper/lang-links__item-wrapper.css);
 @import url(../blocks/lang-links/__item/lang-links__item.css);
+@import url(../blocks/lang-links/__item/_active/lang-links__item_active.css);
 
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
