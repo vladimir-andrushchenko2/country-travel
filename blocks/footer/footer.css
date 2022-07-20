@@ -9,11 +9,13 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 88px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .footer {
+    margin-top: 92px;
     max-width: var(--max-width-inside-1024);
   }
 }

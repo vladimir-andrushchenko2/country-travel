@@ -5,6 +5,7 @@
 @media screen and (min-width: 768px) {
   .lead__figure {
     max-width: 768px;
+    margin-top: 56px;
   }
 }
 
@@ -17,5 +18,6 @@
 @media screen and (min-width: 1280px) {
   .lead__figure {
     max-width: var(--max-width-inside-1280);
+    margin-top: 64px;
   }
 }
