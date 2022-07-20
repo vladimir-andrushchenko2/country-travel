@@ -2,7 +2,7 @@
 
 @import url(../../fonts/Inter_Web/inter.css);
 
-@import url(../blocks/root/root.css);
+@import url(../blocks/:root/:root.css);
 
 @import url(../blocks/page/page.css);
 
