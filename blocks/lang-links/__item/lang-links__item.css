@@ -6,10 +6,6 @@
   line-height: 20px;
 }
 
-.lang-links__item:hover {
-  text-decoration: underline;
-}
-
 @media screen and (min-width: 768px) {
   .lang-links__item {
     font-size: 24px;
