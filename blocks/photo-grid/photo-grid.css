@@ -22,6 +22,5 @@
 @media screen and (min-width: 1280px) {
   .photo-grid {
     max-width: var(--max-width-gallery-inside-1280);
-    margin-top: 92px;
   }
 }
