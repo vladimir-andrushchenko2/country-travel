@@ -9,5 +9,5 @@ Grid
 Адаптивная верстка
 Flexbox
 
-Pages
-https://vladimir-andrushchenko2.github.io/russian-travel/
+Github Pages
+https://vladimir-andrushchenko2.github.io/country-travel/
